@@ -4,9 +4,10 @@
 
 ##  Requisitos :book:
 
- * Node instalado
+ * Node.js
  * Cypress 
  * java
+ * Visual studio
 
 ## Como executar a aplicação :arrow_forward:
 npx cypress open
